@@ -1,4 +1,5 @@
-[!NOTE] Before reading this guide, please refer to [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page!
+> [!NOTE]
+>  Before reading this guide, please refer to [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page!
 
 # Fluorescence Excitation Emission Matrices (FEEM)
 
