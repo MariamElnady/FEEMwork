@@ -51,8 +51,6 @@ Install the following before running the FEEM workflow:
 > [!NOTE]
 > Region boundaries may change depending on the wavelength range of the instrument.
 
----
-
 ## CWRS Aqualog FEEM Regions
 
 The CWRS Aqualog instrument excites from 240–600 nm at 3 nm intervals and detects from 212–619 nm.
