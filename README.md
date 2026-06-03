@@ -51,6 +51,16 @@ Install the following before running the FEEM workflow:
 > [!NOTE]
 > Region boundaries may change depending on the wavelength range of the instrument.
 
+### Trueman et al. Regions
+
+| Region | NOM Descriptor                    | Excitation (nm) | Emission (nm) |
+| ------ | --------------------------------- | --------------- | ------------- |
+| I      | Aromatic Proteins I               | 200-250         | 200-330       |
+| II     | Aromatic Proteins II              | 200-250         | 330-380       |
+| III    | Fulvic acid-like                  | 200-250         | 380-550       |
+| IV     | Soluble microbial by-product-like | 250-340         | 200-380       |
+| V      | Humic acid-like                   | 250-400         | 380-550       |
+
 ### CWRS Aqualog FEEM Regions
 
 The CWRS Aqualog instrument excites from 240–600 nm at 3 nm intervals and detects from 212–619 nm.
