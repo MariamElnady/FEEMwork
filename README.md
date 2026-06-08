@@ -178,6 +178,7 @@ regions_table <- feem_dat %>%
   ) %>%
   unnest(regions) %>%
   select(date, sample_name, alm_conc, region = name, integrated)
+```
 
 ---
 
