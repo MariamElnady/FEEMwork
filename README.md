@@ -8,21 +8,6 @@
 Fluorescence excitation emission matrices (FEEMs) provide a rapid and sensitive method for characterizing dissolved organic matter (DOM) in water samples. Quantitative analysis is commonly performed using fluorescence regional integration (FRI), fluorescence indices such as the humification index (HIX) and biological index (BIX), and parallel factor analysis (PARAFAC). These methods can be used to track changes in NOM composition across drinking water treatment processes, source waters, and watershed systems.
 
 ---
-## Key Terms
-
-### Natural Organic Matter (NOM)
-
-Natural organic matter (NOM) is a complex mixture of organic compounds found in groundwater and surface waters. Although NOM does not directly impact health, it can affect drinking water treatment processes and contribute to undesirable colour, taste, and odour in drinking water.
-
-### Disinfection Byproducts (DBPs)
-
-Disinfection byproducts (DBPs) are chemicals formed when chlorine reacts with natural organic matter during drinking water disinfection. Common DBPs include trihalomethanes (THMs) and haloacetic acids (HAAs).
-
-### Fluorescence Regional Integration (FRI)
-
-Fluorescence regional integration (FRI) is a quantitative method used to analyze excitation emission matrices (EEMs). The excitation-emission matrix is divided into fluorescence regions based on model compounds, and fluorescence intensity is integrated within each region.
-
----
 ## Required Software
 
 Install the following before running the FEEM workflow:
