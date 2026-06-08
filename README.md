@@ -5,9 +5,7 @@
 
 ## Overview
 
-Fluorescence excitation emission matrices (FEEMs) can be analyzed using fluorescence regional integration (FRI) and fluorescence indices such as the humification index (HIX) and biological index (BIX). These metrics are commonly used to monitor changes in natural organic matter (NOM) composition in drinking water systems and treatment processes.
-
-Generated FEEMs are commonly analyzed using fluorescence regional integration (FRI) or parallel factor analysis (PARAFAC). Quantification of FEEMs can be useful for tracking changes in natural organic matter (NOM) composition through treatment processes and watershed systems.
+Fluorescence excitation emission matrices (FEEMs) provide a rapid and sensitive method for characterizing dissolved organic matter (DOM) in water samples. Quantitative analysis is commonly performed using fluorescence regional integration (FRI), fluorescence indices such as the humification index (HIX) and biological index (BIX), and parallel factor analysis (PARAFAC). These methods can be used to track changes in NOM composition across drinking water treatment processes, source waters, and watershed systems.
 
 ---
 ## Key Terms
