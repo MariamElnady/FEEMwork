@@ -196,8 +196,6 @@ These outputs can be used for:
 * temporal trend analysis
 * alum dose optimization
 
-Visualization methods such as boxplots and line plots can help identify trends and variability between treatment conditions.
-
 ---
 
 ## References
