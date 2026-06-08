@@ -178,23 +178,6 @@ regions_table <- feem_dat %>%
   ) %>%
   unnest(regions) %>%
   select(date, sample_name, alm_conc, region = name, integrated)
-```
-
----
-
-## Interpreting Results
-
-The CWRS FEEM workflow produces two primary outputs:
-
-1. FRI region integration values
-2. HIX and BIX fluorescence indices
-
-These outputs can be used for:
-
-* NOM characterization
-* DBP precursor monitoring
-* temporal trend analysis
-* alum dose optimization
 
 ---
 
