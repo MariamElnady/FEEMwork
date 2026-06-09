@@ -101,7 +101,7 @@ Replace the file path with the location of your local FEEM data directory. Repla
 
 ## Calculating HIX and BIX
 
-The excitation and emission wavelength pairs used in older FEEM software differ slightly from the current CWRS Aqualog instrument. Use the modified code below when calculating HIX and BIX values.
+The excitation and emission wavelength pairs used in older FEEM software differ slightly from the current CWRS Aqualog instrument. Use the modified code below when calculating HIX and BIX values. Put this code before the [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) HIX/BIX code!
 
 ```r
 calculate_indices <- function(x)
