@@ -8,6 +8,16 @@
 Fluorescence excitation emission matrices (FEEMs) provide a rapid and sensitive method for characterizing dissolved organic matter (DOM) in water samples. Quantitative analysis is commonly performed using fluorescence regional integration (FRI), fluorescence indices such as the humification index (HIX) and biological index (BIX), and parallel factor analysis (PARAFAC). These methods can be used to track changes in NOM composition across drinking water treatment processes, source waters, and watershed systems.
 
 ---
+
+## Condensed steps:
+1. Install R
+2. Install remotes package from the [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page
+3. read and clean FEEM data (described in the  [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page and this page)
+4. plot FEEM data (described in the  [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page)
+5. integrate the regions in the FEEM plots (describe in the  [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page)
+6. find the HIX and BIX (updated code found in this page)
+
+---
 ## Required Software
 
 Install the following before running the FEEM workflow:
