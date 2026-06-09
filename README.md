@@ -41,8 +41,7 @@ Install the following before running the FEEM workflow:
 | IV     | Soluble microbial by-product-like | 250-340         | 280-380       |
 | V      | Humic acid-like                   | 250-400         | 380-550       |
 
-> [!NOTE]
-> Region boundaries may change depending on the wavelength range of the instrument.
+Region boundaries may change depending on the wavelength range of the instrument.
 
 ### Trueman et al. Regions
 
