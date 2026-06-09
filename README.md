@@ -183,3 +183,5 @@ anthropogenic pressures (La Réunion Island, Indian Ocean) using
 multi-dimensional fluorescence spectroscopy. Science of the total
 environment, 409(11), 2198-2210.
 
+Trueman, B. F., MacIsaac, S. A., Stoddart, A. K. & Gagnon, G. A. Prediction of disinfection by-product formation in drinking water via fluorescence spectroscopy. Environ. Sci. Water Res. Technol. 2, 383–389 (2016). 
+
