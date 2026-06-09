@@ -9,7 +9,7 @@ Fluorescence excitation emission matrices (FEEMs) provide a rapid and sensitive 
 
 ---
 
-## Condensed steps:
+## Condensed steps
 1. Install R
 2. Install remotes package from the [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page
 3. read and clean FEEM data (described in the  [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page and this page)
@@ -93,8 +93,7 @@ feem_dat <- files[1:7] %>%
   map_dfr(~ read_feem(.x, truncate = TRUE), .id = "file")
 ```
 
-> [!NOTE]
-> Replace the file path with the location of your local FEEM data directory. Replace the 1:7 with the range of desired FEEM files in your folder. 
+Replace the file path with the location of your local FEEM data directory. Replace the 1:7 with the range of desired FEEM files in your folder. 
 
 ---
 
