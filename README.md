@@ -14,7 +14,7 @@ Fluorescence excitation emission matrices (FEEMs) provide a rapid and sensitive 
 2. Install remotes package from the [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page
 3. read and clean FEEM data (described in the  [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page and this page)
 4. plot FEEM data (described in the  [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page)
-5. integrate the regions in the FEEM plots (describe in the  [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page)
+5. integrate the regions in the FEEM plots (described in the  [*cwrshelpr*](https://github.com/bentrueman/cwrshelpr) github page)
 6. find the HIX and BIX (updated code found in this page)
 
 ---
